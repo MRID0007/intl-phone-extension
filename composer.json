@@ -1,0 +1,18 @@
+{
+    "name": "michaelridgway/intl-phone-extension",
+    "description": "A comprehensive package that provides a list of all international phone number extensions.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Michaelridgway\\IntlPhoneExtension\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MRID0007",
+            "email": "mrid0007@student.monash.edu"
+        }
+    ],
+    "require": {}
+}
